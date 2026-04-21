@@ -21,12 +21,6 @@ If you would like to get involved with this project and help bring these feature
 
 Full transparency, this is my first open-source project where I've accepted contributions from others. Usually I like to work on projects solo and then just release my code when it's done. However, the amount of interest and enthusiasm from the F1 community has been incredible, so I want to make sure that every Developer has the opportunity to help build something great here. I'll do my best to keep this roadmap updated as the project evolves so that everyone is on the same page.
 
-You can get in touch with me via GitHub issues on this repository or reach out to me via the below channels:
 
-- Email: [tom@tomshaw.dev](mailto:tom@tomshaw.dev)
-- Instagram: [@tom.developer](https://instagram.com/tom.developer)
-- LinkedIn: [Tom Shaw](https://linkedin.com/in/imtomshaw)
-- TikTok: [@tom.developer](https://tiktok.com/@tom.developer)
-- Youtube: [@tom.developer](https://youtube.com/@tom.developer)
 
 Looking forward to building something awesome!!!
